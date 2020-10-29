@@ -8,6 +8,13 @@ public class Main {
         System.out.println(str + " " + str1);
         double num = Math.sqrt(50*215);
         System.out.println(num);
+        int a = 5;
+        double b = 3.56;
+        String name;
+        name = str1 + " Nicolas!";
+        System.out.println(name);
+
+
     }
 
            }
